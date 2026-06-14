@@ -1,0 +1,5 @@
+1. No exponer datos personales de los usuarios de forma pública.
+2. Proteger credenciales mediante el uso obligatorio de contraseñas fuertes y doble factor de autenticación (2FA).
+3. Usar conexiones seguras mediante certificados SSL/TLS (protocolo HTTPS).
+4. Registrar accesos y mantener auditorías de los cambios en la plataforma.
+5. Limitar acceso a información sensible aplicando el principio de menor privilegio para cada rol.

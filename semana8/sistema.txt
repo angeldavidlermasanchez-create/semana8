@@ -1,0 +1,7 @@
+Información que muestra cada comando:
+* uname -a: Muestra la información completa del sistema operativo y del núcleo (kernel) de Linux (nombre, versión, arquitectura del procesador).
+* whoami: Muestra de forma exacta el nombre del usuario que tiene la sesión activa actualmente en la terminal.
+
+Utilidad de conocer esta información al administrar un servidor:
+1. Compatibilidad y Mantenimiento: Permite saber con exactitud qué versión del kernel se está usando para instalar los programas correctos y parches de seguridad adecuados.
+2. Control de Accesos y Permisos: Evita cometer errores graves (como borrar archivos críticos si se está usando el usuario administrador root) y ayuda a auditar quién está operando el servidor.
